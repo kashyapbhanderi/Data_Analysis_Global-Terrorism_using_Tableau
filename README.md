@@ -17,4 +17,8 @@ https://bit.ly/2TK5Xn5
 #### Tableau Link:
 https://public.tableau.com/app/profile/kashyap.bhanderi/viz/EDAonTerrorism/Dashboard1
 
+#### Dashboard:
+
+![Dashboard](https://github.com/Archanakokate/Exploratory_Data_Analysis-Terrorism-using-Tableau/assets/115995897/5d871433-0af5-4be2-a303-1e3f7efd1820)
+
 
